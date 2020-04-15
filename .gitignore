@@ -1,0 +1,10 @@
+*.mat
+*.joblib
+.DS_Store
+*.tar.gz
+*.zip
+__pycache__
+*.hdr
+*.dng
+*.nef
+pfstools/
